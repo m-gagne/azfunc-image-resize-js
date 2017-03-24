@@ -1,3 +1,9 @@
+# Exclude configuration files used by Azure CLI
+appsettings.json
+
+# Exclude vscode
+.vscode
+
 # Logs
 logs
 *.log
